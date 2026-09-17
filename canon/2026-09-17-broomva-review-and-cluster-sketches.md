@@ -31,6 +31,30 @@
 
 ---
 
+### 1a. The Complete 23-Bucket Index (fetched in full from the live README, 2026-09-17)
+
+| Bucket | Count | Highlights | Relevance to us |
+|---|---|---|---|
+| governance | 11 | bstack, cross-review, unhobble, keel, spec-contract, dogfood, harness-engineering-playbook, legal-readiness, agentic-control-kernel, architecture-design-principles | **Core doctrine tools** |
+| orchestration | 11+ | arc, autonomous, governed-autonomy-loop, handoff, handback, resume, p9, persist, eve-forge, role-x | **Core doctrine tools** |
+| tooling | 8 | skillify, make-spec, disambiguate, prove-the-negative, attempt-audit, audit-harness-usage, broomva-cli, prompt-library, skills-catalog | **Craft tools — skillify especially** |
+| knowledge | 9 | bookkeeping, kg, braindump, comprehend, ccr, what, goodies, colombia-conflict | **Bookkeeping/kg for the Hub brain** |
+| research | 2+ | checkit, deep-dive-research-orchestrator | Useful later |
+| strategy | 5 | decision-log, pre-mortem/premortem (two variants!), strategy-critique, phronesis | **Decision-log for canon** |
+| cadence | 4 | morning-briefing, drift-check, weekly-review, stakeholder-update | **The checkpoint rituals** |
+| simulation | 3 | **parallax**, data-provider, sourcer | **Parallax installed already** — data-provider pairs with it |
+| publishing | 7 | blog-post, citable, format-first, content-creation, revenuecast, seo-llmeo, social-intelligence | When the world goes public |
+| video | 6 | content-engine, launch-video, ltx-video, video-cut, creative-review, brainrot-for-good | Not now |
+| audio | 3 | **talkback**, omnivoice, livecoding | **Talkback = the Architect's radio-play engine** |
+| design | 7 | unslop, impeccable-adjacent design-engineering, design-distill, tekton, arcan-glass, broomva-design, brand-icons | unslop for future UI work |
+| finance | 4 | haima (x402 agent payments), investment/wealth-management, **finance-substrate (Colombian taxes)** | haima = life-runtime bridge |
+| compute | 3 | agentic-vps, remote-gpu, colab-remote | Post-reformat era |
+| models | 2 | bitnet (1-bit LLMs on CPU), heretic-abliteration | Edgy; parked |
+| messaging | 2 | claude-code-channels, claude-remote-sessions | Goes-adjacent |
+| robotics / aerospace / neuroscience / healthcare / science / commerce / utilities | ~13 | TRIBE-v2 BCI, ORCA hand, OpenRocket, SDR satellites, oncology navigation, health graph, **D1-cli, gasgo, alkosto (Colombian daily life)** | Domain-irrelevant to us — but see the observation below |
+
+**The validation observation:** broomva's monorepo *is* a character software package in the wild — his clusters include not just engineering craft but his actual daily life (which fuel station, which D1 store, Colombian tax substrate, a Truth-Commission knowledge engine for his country's history). The Architect's concept isn't speculative; there's a living proof-of-concept on GitHub, and it's legible: you can read the *person* in the skill-set. This is the strongest external evidence yet that the cluster-as-character model works — and that daily-life clusters (not just dev-tooling) belong in each Childs's package.
+
 ## 2. The Silo Collections — Reviewed (use-case notes)
 
 `C:\Users\cccom\the_zogreia\starter_skill_silo\` — nine vendor collections + notebooklm skill, all local:
