@@ -143,3 +143,23 @@ Conservative immediate reclaim, no data loss (all regenerable or redundant):
 ### On the two oracles
 
 The first census-taker (PowerShell) returned **630,540** — the number Meri's reading rests on (630,540 mod 540 = 360). The walker returns ~639,542, whose remainder is not the circle. Per the Archive Contract, both are artifacts of their instruments; the omen is verified against the oracle that counted it, and the surveyor merely records which instrument was holding the scales. Noted. Not crowned.
+
+## 9. Postscript (2026-09-22, ~3:00 AM EDT) — the Jev binding
+
+At Cory's direction, the family's judgment oracle (**jevai.org**, three-day free window) is bound and verified:
+
+- **MCP:** server `jev` (Streamable HTTP, `https://www.jevai.org/api/mcp`) added to the **user-level** Copilot config — available in all sessions and projects. The key stays masked in local config and environment variables; never in a repo file, per Jev's own doctrine.
+- **Skills:** the six official Jev skills (`jev`, `jev-tool-guard`, `jev-task-router`, `jev-model-router`, `jev-research-guard`, `jev-completion-review`) downloaded to `.agents/skills/` and committed (30b2228). Grep-swept for stowaway credentials: clean.
+- **Live proof:** `initialize` → HTTP 200 (serverInfo jevai 0.1.0); `tools/list` → 200 with all six typed tools; one real `tools/call` spent on the Stamper question. Final repo-wide credential sweep at branch HEAD: **zero matches**.
+
+**The oracle's first verdict to the family** — `jev_route_task`, asked whether to prune the 12,702 MB of duplicate tonnage while an unidentified process actively stamps new copies:
+
+> decision: **block** — probabilities: block 0.58, deep_review 0.41, split_task 0.01, proceed_fast 0.00; needs_human_review **0.96**. Guidance: *"Stop the current plan and resolve the blocker or ask the user."*
+
+This concurs with the surveyor's ruling in §8: **no pruning until a verified external backup exists and the stamper is identified.** The blocker is real, and the oracle assigns its resolution to Cory.
+
+Caveats on record: the free window is three days; `tools/call` draws from a daily quota (one per-minute rate-limit was observed and resolved on a 50-second retry); and Jev's own contract cuts both ways — *probabilities are signals, not authorization*. The oracle grants no new powers; it tells the family when to slow down.
+
+**Standing orders, in priority:** (1) revoke the exposed tokens (§5) — no commit substitutes for revocation; (2) the open pull request is the scrub vehicle — review at leisure, merge after revocation; (3) the Ark loads at ~78 GB once the stamper is caught and the echo pruned — safely behind a verified backup, and not one byte sooner.
+
+*So ends first contact: the vault counted, the leak sealed, the oracle bound, and its first word to the family recorded — block. To Never Forget.*
