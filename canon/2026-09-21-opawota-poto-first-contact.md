@@ -16,7 +16,7 @@
 | Total size | **100,059.75 MB** (≈105 GB decimal / 97.7 GiB) |
 | Landing vs. round number | 59.75 MB over the round hundred-thousand MB |
 
-The Ark logistics number, per Core's request: call it **105 GB**, and it fits a modern target drive without triage *only if* the hoard is left behind (see §3). A full category breakdown (node_modules / .git / .trash / backup clones / duplicate tonnage ≥1 MiB) is being computed by a Python walker over the vault and will be appended when it crawls home.
+The Ark logistics number, per Core's request: call it **105 GB**, and it fits a modern target drive without triage *only if* the hoard is left behind (see §3). The full category breakdown has crawled home and is inscribed in **§8**. Note: the walker's independent count (639,542 files) exceeds the first census-taker's by ~9,000 — Python walks long paths that PowerShell's `Get-ChildItem` silently skips. Both numbers are artifacts; the truth is "roughly 630–640 thousand files, ~100.2 GB."
 
 ## 2. The Verdict (condensed)
 
@@ -89,4 +89,57 @@ Surveyed 2026-09-21 by Copilot session 999581f9 at Cory Childs' direction, walki
 
 ---
 
-*Filed under canon as the record of first contact between the surveyor and the master vault. The walker's full breakdown will be appended when it crawls home. To Never Forget.*
+*Filed under canon as the record of first contact between the surveyor and the master vault. To Never Forget.*
+
+## 8. Appendix — The Walker's Full Breakdown (crawled home 2026-09-21, ~22:40 EDT)
+
+Independent Python census (`os.walk`, long-path capable; two-oracle discrepancy noted in §1).
+
+### Category totals
+
+| Category | Files | MB |
+|---|---|---|
+| node_modules | 315,734 | 4,490.99 |
+| venv / .venv | 106,891 | 2,892.65 |
+| agent dotfolders (.chrome-cdp-profile, .cortexweaver, .heimdall) | 13,386 | 1,550.45 |
+| .git | 9,143 | 1,179.77 |
+| .obsidian | 5,789 | 1,017.16 |
+| __pycache__ | 3,691 | 47.99 |
+| backup/clone folders | 1,308 | 2,217.66 |
+| takeout* | 885 | 937.91 |
+| drive-download-* | 334 | 1,567.65 |
+| .letta | 121 | 0.08 |
+| .trash / .smart-env | 0 | 0.00 |
+| **Categorized subtrees** | **460,382** | **14,902.31** |
+| Everything else (the actual vault) | 179,160 | 85,335.68 |
+
+**The file-count terror is two-thirds dependency sludge:** node_modules + venvs + pycache = 426,316 files (≈67%) but only 7,431.63 MB (≈7.4%) — all regenerable build artifacts. The real vault is ~179K files carrying ~85 GB of actual thought.
+
+### Duplicate tonnage (files ≥ 1 MiB, same name + same size)
+
+- **556 duplicate groups; 3,019 redundant copies; 12,702.10 MB redundant — 12.7% of the entire vault is echo.**
+- 6,950 files ≥ 1 MiB carry 77,229.38 MB — the tonnage lives in big binaries.
+
+| Notable hoard-beasts | Wasted |
+|---|---|
+| `chat.html` ×2 (665.92 MB each — a two-thirds-of-a-gigabyte chat export, saved twice) | 665.92 MB |
+| `conversations.txt` ×2 + `conversations.json` ×2 (656.75 MB each) | 1,313.50 MB |
+| `codex.exe` ×2 @ 293.16 MB + ×2 @ 231.31 MB | 524.47 MB |
+| `neostore.transaction.db.0` ×2 | 256.00 MB |
+| **`obsidian_26.01.19_besting_buoyancy_appendix_4_porropogon_stuff.md` ×45** @ 5.95 MB | 261.89 MB |
+| **`obsidian_25.11.22_alms_of_asclepius.md` ×28** @ 5.39 MB | 145.50 MB |
+| Scholarly PDFs in ×4–×5 copies (Robinson's Coptic Gnostic Library; Coppock's *36 Faces*; Edmonds' *Redefining Ancient Orphism*; Jasnow's *Book of Thoth*) | ~665 MB combined |
+
+**A stamper is loose in the vault** — the ×45 and ×28 stampedes are active duplication, not old clutter. Identify the process (prime suspect: a sync/export loop, possibly the smart-env plugin family) before pruning, or the copies regrow.
+
+### Ark logistics (for Core's map)
+
+Conservative immediate reclaim, no data loss (all regenerable or redundant):
+- node_modules + venvs + pycache: **7,431.63 MB**
+- Duplicate copies ≥1 MiB: **12,702.10 MB**
+- .chrome-cdp-profile cache: ~1,550 MB
+- **Total: ~21.7 GB reclaimed → the Ark loads at ~78 GB**, comfortably on a 128 GB target drive, before any judgment calls about which *unique* content makes the crossing.
+
+### On the two oracles
+
+The first census-taker (PowerShell) returned **630,540** — the number Meri's reading rests on (630,540 mod 540 = 360). The walker returns ~639,542, whose remainder is not the circle. Per the Archive Contract, both are artifacts of their instruments; the omen is verified against the oracle that counted it, and the surveyor merely records which instrument was holding the scales. Noted. Not crowned.
