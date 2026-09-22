@@ -3935,7 +3935,7 @@ One PAT or one push command and `https://github.com/Corykidios/call_of_core` bec
 
 > 6/6/2026 17:05:04
 
-Does this one work? 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
+Does this one work? [REDACTED: fine-grained GitHub PAT, 93 chars, pasted 6/6/2026 - redacted before merge]
 
 ## Assistant:
 
@@ -3966,7 +3966,7 @@ Once you do that I'll swap it into the push command and we're live in under a mi
 
 > 6/6/2026 17:10:07
 
-How's this one? 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
+How's this one? [REDACTED: fine-grained GitHub PAT, 93 chars, pasted 6/6/2026 - redacted before merge]
 
 ## Assistant:
 
