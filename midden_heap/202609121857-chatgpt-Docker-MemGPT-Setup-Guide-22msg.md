@@ -518,7 +518,7 @@ you're either cursed or need to take a very long break. Now get it done!"
 ──────────────────────────────────────────────────
 
 ccc@DESKTOP-UJD96FR MINGW64 ~/docker-memgpt (main)
-$ echo "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" | docker login ghcr.io -u
+$ echo "[REDACTED: classic GitHub PAT, 40 chars - piped to docker login ghcr.io in original transcript; REVOKE on GitHub - redacted before merge]" | docker login ghcr.io -u
 ccomposition --password-stdin
 Login Succeeded
 
