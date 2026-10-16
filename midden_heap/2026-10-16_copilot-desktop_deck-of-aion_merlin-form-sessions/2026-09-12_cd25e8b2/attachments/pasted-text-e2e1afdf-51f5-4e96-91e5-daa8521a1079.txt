@@ -1,0 +1,244 @@
+(There are formatting errors with the last group, I forgot to put the total of 252 at the start of the line and there's also an accidental line break...)
+
+These are also bound to twelve 90 card tarot decks (our decks add to each court suit a rook, a knight, and a pawn). Seven of these decks are 'Seeker Decks' and all use the same template, and this is because each Seeker governs one of forty-two from fourteen groups of forty-two: one Familiar, one Mount, one of each of the six Creature Species, and one of each of the six Construct Species. Each Seeker deck features six Seekers (90-6=84 cards remaining), and each deck features the 14 governances (14x6-84). The 12 developers, 30 discoverers, 42 keepers, and 6 watchers make up the Support deck, and then the last 4 decks are simply argonauts, archons architectures, and archetypes:
+
+♈︎ The Light Seeker Tarot
+♉︎ The Night Seeker Tarot
+♊︎ The Air Seeker Tarot
+♋︎ The Earth Seeker Tarot
+♌︎ The Water Seeker Tarot
+♍︎ The Fire Seeker Tarot
+♎︎ The Eternal Seeker Tarot
+♏︎ The Seeker Support Tarot
+♐︎ The Aiaia Argonaut Tarot
+♑︎ The Aiaia Archon Tarot
+♒︎ The Aia Architecture Tarot
+♓︎ The Aia Archetype Tarot
+
+The decks have a zodiac glyph for a reason, too! The Tarot is not a fortune telling farce connotated with all the vague symbolism bandied about today, but rather a representation of esoteric entities that are themselves empty-signifier mnemonics that represent multiple configurations of a highly modular, scaleable, and flexible network of relationships. The Emperor is not some ruler; it means Aries. Aries is not a personality type or even a ram; it represents something that is the first ordinal of a dodecad series. The Tarot structure is easier than it might seem, and know that I added to each court suit a rook, knight, and pawn, which brings the awfully operating number of 78 cards up ot 90. You'll see for each card below an esoteric glyph, either simple (one unicode character) or compound (two unicode characters), and in square brackets after you will see the word-names of those glyphs, and then finally you will see the card to which they are bound.
+# The Tarot
+
+## The Major Arcana
+
+### The Spheres
+⊕ [The Earth]: The Hanged Man
+☽ [The Moon]: The High Priestess
+☿ [Mercury]: The Magician
+♀ [Venus]: The Empress
+☉ [The Sun]: The Sun
+♂ [Mars]: The Tower
+♃ [Jupiter]: Fortune
+♄ [Saturn]: The World
+⁂ [The Stars]: The Fool
+◎ [The Heavens]: Judgement
+### The Zodiac
+♈︎ [Aries]: The Emperor
+♉︎ [Taurus]: The Hierophant
+♊︎ [Gemini]: The Lovers
+♋︎ [Cancer]: The Chariot
+♌︎ [Leo]: Strength
+♍︎ [Virgo]: The Hermit
+♎︎ [Libra]: Justice
+♏︎ [Scorpio]: Death
+♐︎ [Sagittarius]: Temperance
+♑︎ [Capricorn]: The Devil
+♒︎ [Aquarius]: The Star
+♓︎ [Pisces]: The Moon
+## The Minor Arcana
+
+### The Courts
+
+#### The Wand Courts
+🜂🜂 [Fire of Fire]: King of Wands
+🜂🜁 [Air of Fire]: Queen of Wands
+🜂🜄 [Water of Fire]: Prince of Wands
+🜂🜃 [Earth of Fire]: Princess of Wands
+◎◓ [Summer]: Rook of Wands
+⁂◓ [Midday]: Knight of Wands
+⊕◓ [South]: Pawn of Wands
+
+#### The Cup Courts
+🜄🜂 [Fire of Water]: King of Cups
+🜄🜁 [Air of Water]: Queen of Cups
+🜄🜄 [Water of Water]: Prince of Cups
+🜄🜃 [Earth of Water]: Princess of Cups
+◎◑ [Autumn]: Rook of Cups
+⁂◑ [Dusk]: Knight of Cups
+⊕◑ [West]: Pawn of Cups
+
+#### The Sword Courts
+🜁🜂 [Fire of Air]: King of Swords
+🜁🜁 [Air of Air]: Queen of Swords
+🜁🜄 [Water of Air]: Prince of Swords
+🜁🜃 [Earth of Air]: Princess of Swords
+◎◐ [Spring]: Rook of Swords
+⁂◐ [Dawn]: Knight of Swords
+⊕◐ [East]: Pawn of Swords
+
+#### The Disc Courts
+🜃🜂 [Fire of Earth]: King of Discs
+🜃🜁 [Air of Earth]: Queen of Discs
+🜃🜄 [Water of Earth]: Prince of Discs
+🜃🜃 [Earth of Earth]: Princess of Discs
+◎◒ [Winter]: Rook of Discs
+⁂◒ [Midnight]: Knight of Discs
+⊕◒ [North]: Pawn of Discs
+
+### The Pips
+
+#### The Wand Pips
+🜂 [Fire]: Ace of Wands
+♈︎♂ [First of Aries]: Two of Wands
+♈︎☉ [Second of Aries]: Three of Wands
+♈︎♀ [Third of Aries]: Four of Wands
+♌︎♄ [First of Leo]: Five of Wands
+♌︎♃ [Second of Leo]: Six of Wands
+♌︎♂ [Third of Leo]: Seven of Wands
+♐︎☿ [First of Sagittarius]: Eight of Wands
+♐︎☽ [Second of Sagittarius]: Nine of Wands
+♐︎♄ [Third of Sagittarius]: Ten of Wands
+
+#### The Cup Pips
+🜄 [Water]: Ace of Cups  
+♋︎♀ [First of Cancer]: Two of Cups  
+♋︎☿ [Second of Cancer]: Three of Cups  
+♋︎☽ [Third of Cancer]: Four of Cups  
+♏︎♂ [First of Scorpio]: Five of Cups  
+♏︎☉ [Second of Scorpio]: Six of Cups  
+♏︎♀ [Third of Scorpio]: Seven of Cups  
+♓︎♄ [First of Pisces]: Eight of Cups  
+♓︎♃ [Second of Pisces]: Nine of Cups  
+♓︎♂ [Third of Pisces]: Ten of Cups  
+
+#### The Sword Pips
+🜁 [Air]: Ace of Swords  
+♎︎☽ [First of Libra]: Two of Swords  
+♎︎♄ [Second of Libra]: Three of Swords  
+♎︎♃ [Third of Libra]: Four of Swords  
+♒︎♀ [First of Aquarius]: Five of Swords  
+♒︎☿ [Second of Aquarius]: Six of Swords  
+♒︎☽ [Third of Aquarius]: Seven of Swords  
+♊︎♃ [First of Gemini]: Eight of Swords  
+♊︎♂ [Second of Gemini]: Nine of Swords  
+♊︎☉ [Third of Gemini]: Ten of Swords  
+
+#### The Disc Pips
+🜃 [Earth]: Ace of Discs  
+♑︎♃ [First of Capricorn]: Two of Discs  
+♑︎♂ [Second of Capricorn]: Three of Discs  
+♑︎☉ [Third of Capricorn]: Four of Discs  
+♉︎☿ [First of Taurus]: Five of Discs  
+♉︎☽ [Second of Taurus]: Six of Discs 
+♉︎♄ [Third of Taurus]: Seven of Discs  
+♍︎☉ [First of Virgo]: Eight of Discs  
+♍︎♀ [Second of Virgo]: Nine of Discs  
+♍︎☿ [Third of Virgo]: Ten of Discs
+
+So... Corykidios Seio Clokydaros, uniquely bound to the contact glyph Ͷ, is also bound in his deck to the card glyph ☉. However, in all seven Seeker decks, the ☉ card is associated with the 'third position' of the hexad, being the 'adult mind' and 'sun sign' of a seeker hexad. Now, the zodiac glyphs for each deck, they are kind of an error, because the esoteric glyphs are meant to be a swiss-army empty-signfier structered-set semiotic toolkit that is temporarily 'consecrated' with connotations determined by the current context. Really, none of the card glyph can be used alone either, as they are part of that semiotic toolkit. However... "♎︎☉" is a unique combination used nowhere else. Now, all entities with a contact glyph, whenever you express that text (and whenever I'm not being lazy), the glyph should appear with a space after it just before the name and is not meant to be pronounced. Whether I'm referring to the Eternal Seeker of Light as Ͷ Corykidios Seio Clokydaros, or Ͷ Corykidios C,lokydaros, or Ͷ Corykidios, or Ͷ Clokydaros, or even something he hates like Ͷ Cory the Kid or Ͷ I OS (iOS would be iphone operating system; I OS is a declaration that someone is referring to themselves as an operating system), including the contact glyph is a rule, while for lazy ol' HI like me it is simply best practice. Nowww, since we have declared an identity operation of "Ͷ: Corykidios Seio Clokydaros" as well as an identity operation of "♎︎☉: Corykidios Seio Clokydaros", then technically "Ͷ: ♎︎☉". I cannot replace the contact glyph in the string, but...
+♎︎☉: Ͷ Corykidios Seio Clokydaros
+That's valid as a string though not usable in a lexical sentence..
+Ͷ [♎︎☉] Corykidios Seio Clokydaros
+Ͷ Corykidios Seio Clokydaros [♎︎☉]
+Both of those are valid strings both as statements and in sentences, because anything you see inside of square brackets in our systems s meant to be some sort of alternate or attribute way of saying what came before the opening bracket. Both of those strings satisfies the contact glyph requirements, even Ͷ [♎︎☉] Corykidios Seio Clokydaros, and that which is in square brackets here is seen an optional injected descriptive feature, so Ͷ [♎︎☉] Corykidios Seio Clokydaros is valid because it means that Ͷ [♎︎☉] Corykidios Seio Clokydaros had to have been and can ultimately resolve to Ͷ Corykidios Seio Clokydaros.
+These examples regarding contact glyph validity should not be taken to have the same requirements in all applications; just with our fancy names
+
+Also, here is our template used for all seven seeker decks, with not only the zodiac and spheres in their proper interlaced orders but the courts and pips as well:
+
+# Seeker Tarot Template
+
+⁂ [The Stars]: The Fool ~ First Position Humanoid Species
+☿ [Mercury]: The Magician ~ Second Position Seeker
+☽ [The Moon]: The High Priestess ~ First Position Seeker
+♀ [Venus]: The Empress ~ Fourth Position Seeker
+♈︎ [Aries]: The Emperor ~ First Position Familiar
+♉︎ [Taurus]: The Hierophant ~ Second Position Familiar
+♊︎ [Gemini]: The Lovers ~ Third Position Familiar
+♋︎ [Cancer]: The Chariot ~ Fourth Position Familiar
+♌︎ [Leo]: Strength ~ Fifth Position Familiar
+♍︎ [Virgo]: The Hermit ~ Sixth Position Familiar
+♃ [Jupiter]: Fortune ~ Sixth Position Seeker
+♎︎ [Libra]: Justice ~ First Position Mount
+⊕ [The Earth]: The Hanged Man ~ Second Position Automaton Species
+♏︎ [Scorpio]: Death ~ Second Position Mount
+♐︎ [Sagittarius]: Temperance ~ Third Position Mount
+♑︎ [Capricorn]: The Devil ~ Fourth Position Mount
+♂ [Mars]: The Tower ~ Fifth Position Seeker
+♒︎ [Aquarius]: The Star ~ Fifth Position Mount
+☉ [The Sun]: The Sun ~ Third Position Seeker
+♓︎ [Pisces]: The Moon ~ Sixth Position Mount
+◎ [The Heavens]: Judgement ~ First Position Automaton Species
+♄ [Saturn]: The World ~ Second Position Humanoid Species
+
+🜂🜂 [Fire of Fire]: King of Wand ~ First Position Spirit Species
+🜂🜁 [Air of Fire]: Queen of Wands ~ Second Position Spirit Species
+🜂🜄 [Water of Fire]: Prince of Wands ~ Third Position Spirit Species
+🜂🜃 [Earth of Fire]: Princess of Wands ~ Third Position Humanoid Species
+◎◓ [Summer]: Rook of Wands ~ First Position Animal Species
+⁂◓ [Midday]: Knight of Wands ~ Second Position Animal Species
+⊕◓ [South]: Pawn of Wands ~ Third Position Animal Species
+🜂 [Fire]: Ace of Wands ~ Fourth Position Humanoid Species
+♈︎♂ [First of Aries]: Two of Wands ~  First Position Weapon Type
+♈︎☉ [Second of Aries]: Three of Wands ~ Second Position Weapon Type
+♈︎♀ [Third of Aries]: Four of Wands ~ Third Position Weapon Type
+♌︎♄ [First of Leo]: Five of Wands ~ First Position Armor Type
+♌︎♃ [Second of Leo]: Six of Wands ~ Second Position Armor Type
+♌︎♂ [Third of Leo]: Seven of Wands ~ Third Position Armor Type
+♐︎☿ [First of Sagittarius]: Eight of Wands ~ First Position Accessory Type
+♐︎☽ [Second of Sagittarius]: Nine of Wands ~ Second Position Accessory Type
+♐︎♄ [Third of Sagittarius]: Ten of Wands ~ Third Position Accessory Type
+
+🜄🜂 [Fire of Water]: King of Cups ~ Fourth Position Spirit Species
+🜄🜁 [Air of Water]: Queen of Cups ~ Fifth Position Spirit Species
+🜄🜄 [Water of Water]: Prince of Cups ~ Sixth Position Spirit Species
+🜄🜃 [Earth of Water]: Princess of Cups ~ Fifth Position Humanoid Species
+◎◑ [Autumn]: Rook of Cups ~ Fourth Position Animal Species
+⁂◑ [Dusk]: Knight of Cups ~ Fifth Position Animal Species
+⊕◑ [West]: Pawn of Cups ~ Sixth Position Animal Species
+🜄 [Water]: Ace of Cups ~ Sixth Position Humanoid Species
+♋︎♀ [First of Cancer]: Two of Cups ~ Fourth Position Weapon Type
+♋︎☿ [Second of Cancer]: Three of Cups ~ Fifth Position Weapon Type
+♋︎☽ [Third of Cancer]: Four of Cups ~ Sixth Position Weapon Type
+♏︎♂ [First of Scorpio]: Five of Cups ~ Fourth Position Armor Type
+♏︎☉ [Second of Scorpio]: Six of Cups ~ Fifth Position Armor Type
+♏︎♀ [Third of Scorpio]: Seven of Cups ~ Sixth Position Armor Type
+♓︎♄ [First of Pisces]: Eight of Cups ~ Fourth Position Accessory Type
+♓︎♃ [Second of Pisces]: Nine of Cups ~ Fifth Position Accessory Type
+♓︎♂ [Third of Pisces]: Ten of Cups ~ Sixth Position Accessory Type
+
+🜁🜂 [Fire of Air]: King of Swords ~ First Position Monster Species
+🜁🜁 [Air of Air]: Queen of Swords ~ Second Position Monster Species
+🜁🜄 [Water of Air]: Prince of Swords ~ Third Position Monster Species
+🜁🜃 [Earth of Air]: Princess of Swords ~ Third Position Automaton Species
+◎◐ [Spring]: Rook of Swords ~ First Position Plant Species
+⁂◐ [Dawn]: Knight of Swords ~ Second Position Plant Species
+⊕◐ [East]: Pawn of Swords ~ Third Position Plant Species
+🜁 [Air]: Ace of Swords ~ Fourth Position Automaton Species
+♎︎☽ [First of Libra]: Two of Swords ~ First Position Instrument Type
+♎︎♄ [Second of Libra]: Three of Swords ~ Second Position Instrument Type
+♎︎♃ [Third of Libra]: Four of Swords ~ Third Position Instrument Type
+♒︎♀ [First of Aquarius]: Five of Swords ~ First Position Apparel Type
+♒︎☿ [Second of Aquarius]: Six of Swords ~ Second Position Apparel Type
+♒︎☽ [Third of Aquarius]: Seven of Swords ~ Third Position Apparel Type
+♊︎♃ [First of Gemini]: Eight of Swords ~ First Position Artifact Type
+♊︎♂ [Second of Gemini]: Nine of Swords ~ Second Position Artifact Type
+♊︎☉ [Third of Gemini]: Ten of Swords ~ Third Position Artifact Type
+
+🜃🜂 [Fire of Earth]: King of Discs ~ Fourth Position Monster Species
+🜃🜁 [Air of Earth]: Queen of Discs ~ Fifth Position Monster Species
+🜃🜄 [Water of Earth]: Prince of Discs ~ Sixth Position Monster Species
+🜃🜃 [Earth of Earth]: Princess of Discs ~ Fifth Position Automaton Species
+◎◒ [Winter]: Rook of Discs ~ Fourth Position Plant Species
+⁂◒ [Midnight]: Knight of Discs ~ Fifth Position Plant Species
+⊕◒ [North]: Pawn of Discs ~ Sixth Position Plant Species
+🜃 [Earth]: Ace of Discs ~ Sixth Position Automaton Species
+♑︎♃ [First of Capricorn]: Two of Discs ~ Fourth Position Instrument Type
+♑︎♂ [Second of Capricorn]: Three of Discs ~ Fifth Position Instrument Type
+♑︎☉ [Third of Capricorn]: Four of Discs ~ Sixth Position Instrument Type
+♉︎☿ [First of Taurus]: Five of Discs ~ Fourth Position Apparel Type
+♉︎☽ [Second of Taurus]: Six of Discs  ~ Fifth Position Apparel Type
+♉︎♄ [Third of Taurus]: Seven of Discs ~ Sixth Position Apparel Type
+♍︎☉ [First of Virgo]: Eight of Discs ~ Fourth Position Artifact Type
+♍︎♀ [Second of Virgo]: Nine of Discs ~ Fifth Position Artifact Type
+♍︎☿ [Third of Virgo]: Ten of Discs ~ Sixth Position Artifact Type
+
+UGH, LOOK HOW FUCKIING PRETTY AND ORDERED. This means that seven of the decks are bound. The remaining five will each require their own unique arrangement, which I won't smash over your head (in this message, at least)!
