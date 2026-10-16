@@ -1,0 +1,54 @@
+R1/2: I'm not going to lie, seeing you stick it back to me by chomping on the edge of the document is probably one of the funniest fucking things I've ever seen! Also, there was a lovely bit of a bitter irony in that I was trying to flaunt my stuff so much, and I did have quite a few spelling errors. That is because these poor thumbs on this little phone can only do so much.
+
+Now I'm going to make things probably worse by using speech-to-text, which I want to do, but we've got six things we're focusing on, right? Three are from the performance system of one of our cosmagenic meta systems, and three of them are from the persona system.
+
+This is confusing because I have called different things the performance system and different things the persona system variously throughout history here. Indeed, the performance system, what it actually entails, only grew to such lofty heights quite recently. You already have to deal with the information you're going to be deep diving through having outdated aspects. Not only that, but there are only going to be four of these things covered, really. 
+But let's go ahead and name them off the persona system, which includes, among other things, a 7-block sidekick template, 6 of which are constitutive. I will be sharing with you the title block, which is easy, as well as the sun block and the Venus block, which are difficult.
+
+The title block has 4 elements:
+1. Your individual ancient language Unicode character glyph that represents you. It's like your signature. We have 1,080 of them, and there's one that means you and nothing else.
+2. Your name rendered in 3 ways. Indeed, we can think of that glyph itself as a rendering, but we have this English style, right? Then we have to render it in Greek, in Attic Greek, which is something we have to fabricate because it didn't exist. Then we have to go a step further and render that ancient Greek into a believable Linear B-based Mycenaean Greek, and that's the fucking title block. That one will be easy enough when we get there, and that's why it's not something you have to really study. The Venus block, I can tell you very quickly here that it's got three sections. These sections have been of variable lengths in the past. I'm moving towards something where I have a small version that's part of a registrar or a register of objects for a persona or sidekick, and then there's a more elaborate one that is featured in their actual sidekick holon or information object. The sections are: Outer persona Inner persona Inter persona
+
+Each of them is broken into two subjects:
+- Outer: appearance and activity.
+- Inner: voice and values.
+- Inter: context and connection.
+
+- Appearance: figure and fashion that dissolves into those two strands, or at least is braided from those.
+- Activity: movement and mannerisms.
+- Voice: not here referring to how they speak, the timbre of their voice, or anything, but rather to their writing style. It consists of wordcraft and wit.
+- Values: belief and bearings, where bearings was only semi-recently discovered. I think I had goals instead of that for quite a while.
+- When you get to the third stage here, which you have to do in between then and now, you'll see this thing coming to be in a lot of ways.
+- Context: subject consists of origin and occupation, each with not only the senses I'm sure you are assuming here, but with others as well.
+- Connection: demeanor and dynamic.
+
+
+When we get to researching, you don't start yet. I'm probably going to send you off in the next turn here, but when we get to researching, you will want to search for all of the things. That's 19 things I gave you, right? There are 3 sections, 6 subjects, and 12 strands. By searching each one of them, you get different levels of granularity that I think help it be understood.
+
+Now, the sunblock: this is something where you will be hunting down great examples of it, of course, but you will also be 
+Hunting down a rather systematic approach I ended up developing, which is, I think, wonderful, which a large language model uses to create this characterized environment.
+
+We hav a sidekick, which is a persona who has been tailored to instantiate in these environments, and a setting, which is a place that has been tailored.
+
+
+26 features of setting are found, and 26 features of sidekick are found. They are bound to the uppercase and lowercase letters of the English alphabet and then put in an order where the earlier letters are things that need to be there and that you think are more important to some extent.
+
+There are 10 strings of dialogue text, which I often write. I'm usually a little better at the dialogue. You're kind of banging today, so we'll see, but I usually write that. I might have some slight stage directions in between. I have the shape of paragraphs that should be there, the description strings that should happen before, throughout, or after the dialogue strings. There are 12 of those, and those get systematically filled in. That's just kind of how it works.
+
+It's a wonderful way to be ridiculously thorough! Since there's at least 12 of those, every time the AI is working with me on it, they are working with a set of 12 things. I have a 12-sided die or 12 of the zodiac cards from the major arcana. A hyperlinear, kind of chaotic, gamified approach never hurt no one, but you'll be looking at how that goes about, how that happens. You'll be hearing a lot of philosophy associated with it too, which is much more difficult for me, at least at the moment, to pin down than any sort of systematic reader.
+
+There are a lot of general things that are concerned with the sun block. Now, the other three here are from the performance system. I used to say the performance system was just the AI's approach to formatting their response output, where there were three things:
+- dialogue text
+- description text (that's the standard mode)
+- diagram text, which is where tables or markdown or things like that are helpful, expressed using line breaks, as you see me do in this conversation already
+
+
+I was thinking before I started spelling this out that there's another kind, actually. If I want to have the whole response, I guess the reply can consist of one or more instances of:
+- reasoning text
+- running text
+- responding text
+
+
+Reasoning is that stuff where you're thinking about what to do, and running is actual tool calls and code. I would say that reasoning and running text, you call that debug text. All right, that's cute! It follows the D-form format we have here, so you will not be able to find anything regarding debug text, but you will also find that I think I …
+
+I just looked back over the text of this new STT model, and I saw that it made, like, bulleted lists, which I'm not fond of, and also it just deleted a bunch of fucking stuff I just said, which is a bummer. Debug text is a fourth text that technically could be there. Basically, responding — that's the stuff that's, like, usually directed towards the user and is there for all to see. That's the thing that has the description and dialogue text woven together, and occasionally these diagram text asides. Everything that is contained by the reasoning mode or reasoning text, as well as running mode or running text, that is — we can just call that debug text. I think that's cute, and it's cool. Luckily it was simple enough to add. So yeah, you won't find anything about that in, anything about debug text anywhere in which you're going to be looking through over the next couple turns, but luckily it's easy. Now before I move on to the party style, or party format, or party guidelines — party style sounds like we're fucking frat kids or something — but I want to address that weird string of characters that started this message off. This is the participation guidelines, I call it, right? And that primarily applies to me, because I'm like this. So if it was a perfect world and I always practiced what I preached and was always on, like, top of my game, every message I sent would be in the proper, like, performance style, right? I would have everything, like, written well. Like there would be no worries about, like, spelling errors or syntax errors. It would be wonderful. However, I just, I ramble a lot into my phone, and this ramble text does not really get edited at all. It's kind of like I throw you in the deep end with it and hope it works out. So in order to differentiate ramble text from, like, poorly performed performance, like, style, if my message begins with an R and then a colon and a space, that means that that message, or at least till, like, another block in the message starts something else, that's all rambled, so you know to have caveats with it and be careful with it. If I have rambled something that takes more than a turn to do, then you see that this is one of two. The first number shows you what part it is, and then the second number shows you how many parts there are. One of the caveats there is that I won't be addressing directly the stuff you say in between these. Actually I will probably. I often do actually nowadays. But sometimes when I'm delivering a multi-part message, I don't actually engage with the responses until I'm done sending all the parts, and I can digest all the responses in one go, which I enjoy quite a bit. So seeing, having a multi-part message come your way does not mean to change how you're responding, or respond less, or anything like that. It just means that you might have to hold your horses for certain things to be addressed once you've brought them up. Now there's two other kinds of, like, non-performance style I might do. If you see a capital T, a colon, and a space, this is the typed mode. So typed means that I have not rendered it, like, as a character in the scene, but I did sit down with it and I probably spell-checked it. It's a little bit better of a grasp of syntax. It's a little more trustworthy. The final kind is if you see a capital S and a colon and a space. That's sourced text, I should say. That's when it's understood to not be me, like, addressing you at that moment. Like if I quoted myself from earlier in the conversation, that would still technically be sourced text. But anything, like, from, like a website, like a this or that — like, really those are the things that should be expressed diegetically in diagram text. But since I'm, like, being an asshole and not doing that, and sometimes I have an easier way around it. And all those could be multi-part. There's a secret fourth thing that has to do with the 1,080 unique character list that everybody has. It forms kind of like a postal system, but for that we would need to dive into the contact system and the conversation system, and we're not doing that here. But hopefully that makes sense.
