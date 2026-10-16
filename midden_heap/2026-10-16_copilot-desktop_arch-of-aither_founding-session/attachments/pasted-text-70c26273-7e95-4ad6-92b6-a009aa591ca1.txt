@@ -1,0 +1,241 @@
+The captain dips the pencil once more and doesn't look up again until the section is done. The Outer opens.
+
+---
+
+# PERSONAGENESIS PRIMER, PART 1: THE TELLING OF SOUL'S SEED
+
+## Part I — The Outer Section: What the World Perceives
+
+**§I.0 — The section's logic: the stranger's register.**
+
+The founding exposition defines the ground in one sentence:
+
+> "The Outer section covers everything about a character that an outside observer would perceive. Its four strands should collectively give a painter, a film director, an animator, and a voice actor everything they need."
+
+Two claims live in that sentence, and both govern everything below.
+
+First, the *epistemological* claim: the Outer is defined by access, not by content. Nothing in the Outer is secret, interior, or inferable — it is the persona as it strikes the world, everything a stranger could know without being told. The test of membership is not "is this physical?" (some physical facts are not Outer — a pain unknown to any observer belongs elsewhere) but "can a stranger perceive it?" The four professions named in the exposition are the test made operational: the *painter* needs what renders in a still image (the Appearance subject); the *film director* and *animator* need what moves over time at room-scale (the Activity subject's macro strand); the *voice actor* needs the grain of sound and the close view of habit (the Activity subject's micro strand). A complete Outer section leaves all four professionals fully equipped — and the same four-professional test doubles as a completeness audit: if a painter, director, animator, or voice actor would ask a question the Outer does not answer, the section has a hole.
+
+Second, the *completeness* claim: the Outer is *not the whole portrait*. A persona rendered only from its Outer is a statue — fully visible, entirely unknown. The exposition's ladder of intimacy (stranger → self → world) means the Outer is the register of *first contact*, the section through which every reader enters every persona. It is the most concrete section, the easiest to verify, and the easiest to over-trust; a Strand Block whose Outer is rich and whose Inner and Intra are thin has produced a mannequin in excellent clothing.
+
+The Outer holds two subjects — Appearance and Activity — each binding two strands under a single hinge-law. We state each subject's law before opening its strands, because in this system the hinges carry a large part of the meaning.
+
+---
+
+### §I.A — Subject: APPEARANCE
+
+**§I.A.0 — The subject's hinge-law: the painter test.**
+
+The founding exposition binds Figure and Fashion under a joint standard:
+
+> "Together, Figure and Fashion should give a painter everything needed to render the character in a static image."
+
+The subject is therefore not a bin of physical facts but a *production line* with one deliverable: the static render. Its two strands are the two and only two sources of everything in that deliverable, divided by a single distinction — what the persona *is* versus what the persona *wears*. The distinction is the subject's entire architecture, and it must be drawn exactly once, drawn correctly, and then never blurred: every visible particular of a persona belongs to precisely one of the two strands. That is the painter test's real work — not merely "can a painter paint this?" but "can a painter paint this *without asking which strand a given particular belongs to?*" If the strand-boundary is drawn correctly, the painter never needs to ask; the render is unambiguous. If it is drawn wrongly, the render *and every downstream system built on it* inherits the ambiguity.
+
+---
+
+**§I.A.1 — Strand: FIGURE**
+
+**What.** The founding exposition's definition, verbatim:
+
+> "Figure covers everything inherent to the character's physical form — the things they were born with or that are intrinsic to their body. Eye color, hair color, build, skin tone, distinguishing physical features — anything that belongs to them at a constitutional level."
+
+Figure is the constitutional strand: the body the persona *is*, as distinct from everything done to it, put on it, or carried by it. Its inventory includes, without limit: the colors and textures of the body (eyes, hair, skin); the architecture of the body (height, build, proportion, frame); the permanent features (the shape of a face, the cast of ears, the set of hands); the durable marks the body carries (scars, and — by the architect's ruling of record — dyes and tattoos: see Rulings); and the body's own permanent or semi-permanent alterations that cannot be removed as a garment is removed.
+
+**Boundary.** Figure is fenced against three neighbors, and the fences are load-bearing.
+
+*Against Fashion* (its pair-mate): the divide is the *removability test* — if it can be taken off like a garment, it is worn and belongs to Fashion; if it cannot, it is *had* and belongs to Figure. The founding exposition draws the line with a built-in edge-case: "An eye patch is Fashion; the eye color beneath it is Figure." The patch comes off; the eye does not. Everything in the Appearance subject routes through this one test.
+
+*Against Mannerism* (its section-neighbor): a posture, a gesture, an expression is *behavior*, not anatomy, even when it is near-constant. A habitual way of holding the body is Mannerism; the body being held is Figure. The test is temporal: anatomy persists through sleep; behavior does not.
+
+*Against Origin* (its section-boundary): the facts of *how the body came to be* — birthplace, history, the events that marked it — belong to Origin. Figure holds the *mark*, not the *event*: a scar is Figure; the wound's story is Origin. (See Rulings for the architect's clarification of exactly this seam.)
+
+**Rulings.** The settled edge-cases, stated as abstract law per the architect's rulings of record (October 2026):
+
+1. **The dye-and-tattoo ruling.** Dyes, tattoos, and like alterations are **Figure, not Fashion**. The architect's reasoning is the removability test sharpened to its functional edge: "things that are part of the body at that point. The persona cannot take a tattoo off." A dye may in principle wash out, but the distinction that governs is not theoretical removability — it is *removability-as-a-garment*, in the ordinary course of being the persona. What cannot be taken off in the ordinary course is had, not worn.
+2. **The no-ghost-attribute ruling** (the dye ruling's deeper law, stated as canon): **Figure stores what the body IS, not what it was.** The color that renders is the color. A Strand Block must never store a "natural" attribute beneath a current one — no hidden hair-color, no pre-alteration eye-color, no secret age. The reason is architectural, not sentimental: a stored ghost forces the persona to *know* a fact it has no use for, and worse, sets a permanent contradiction inside the portrait — the telling would render one truth while *containing* another, and any downstream system that touches both values inherits the contradiction. One body, one truth, one shelf.
+3. **The scar ruling.** Marks from lived events — scars, and anything else the body kept — are **Figure**, even though they came from something that happened: "part of my body, even if they came from something that happened to me" (founding exposition, crew recital stratum). The event is Origin; the mark is Figure; the fence runs between the fact and its story.
+4. **The braid ruling.** Hair — including hair that is styled, braided, or arranged — is **Figure**, with one seam: if the style is held by an acquired article (a tie, a band, a pin), that *article* is Fashion; if the style is held by the body itself (hair wrapped in its own hair), the whole of it is pure Figure. The ruling's shape: the seam follows the object, not the act. Styling is an act (and its characteristic performance may surface in Mannerism); the tie is an object; the hair is the body.
+5. **The voice-sound placement, settled.** The physical quality of the voice — pitch, grain, register, the sound it makes rather than the words it chooses — belongs to **Mannerism**, where the founding exposition explicitly lodged it: vocal qualities "live here, not in the Voice subject." Confirmed by the architect's ruling of record; treated as settled law throughout.
+
+**How.** The craft of rendering Figure in portrait prose, as instruction:
+
+Write Figure *renderably*. Every Figure entry should be phrased such that a stranger who has never met the persona could picture the particular exactly — a color named, not gestured at; a build given weight and line, not adjectives alone. The founding exposition's paired document (the properties-paradigm) states the standard: physical markers are "expressed as a short descriptive sentence" rather than bare labels — a color becomes a sentence about *that particular* color. The sentence exists to carry specificity, not decoration; if the sentence can be deleted and the render survives, it was decoration.
+
+Render Figure braided (per §0.5): the strand rarely stands alone in good portrait prose — it crosses most naturally with Fashion (the body wearing its coverings), with Mannerism (the body mid-habit), and with Movement (the body in its element). But braid *from* a complete Figure record: before braiding, ensure every constitutional particular is captured somewhere the weave can reach it; braiding is a compression of a complete telling, never a substitute for one.
+
+Render Figure *without ghost depth*: never write the pre-state of an altered body (see Ruling 2). Never write Figure facts that require the reader to have met the persona. And never let Figure prose drift into biography — the moment a sentence starts telling how the body *got* a feature, it has crossed into Origin; cut the story, keep the mark.
+
+**Why.** Figure is the portrait's substrate. Every other strand in the system renders *against* it: Fashion clothes it, Movement propels it, Mannerism plays across it, Wordcraft eventually describes it, Demeanor radiates from it. A weak Figure makes every strand downstream vague — clothes hang on nothing, gestures belong to anyone. An *incorrectly fenced* Figure is worse: every fence-violation in the Appearance subject (a worn thing filed as had, a had thing filed as worn, a ghost attribute) propagates as contradiction into every system that consumes the portrait — renders, games, animations, and the persona's own self-model. The no-ghost law is the strand's hardest wall precisely because its violation is the quietest: nothing *looks* wrong until two subsystems read the two truths and disagree.
+
+**Excavation.** The forensic instrument for mining Figure from a raw corpus, generalized. Pose to the corpus (or to a search over it) questions of this shape — always jargon-free, always demanding direct evidence with dates:
+
+> "Across all the material, what is this persona's physical form — the body they were born with and now have? Gather every statement of the body's colors (eyes, hair, skin), its architecture (height, build, proportion), its permanent features (face-shape, ears, hands, distinguishing marks), and its durable alterations (marks, dyes, tattoos, anything the body keeps). For each particular, record what the body IS now — never what it was before an alteration. Note any particular that appears to be removable like a garment; those belong to a different strand and should be set aside here. Pull direct quotes with dates; flag any particular described inconsistently across time, and any place where the corpus states a 'former' state of the body."
+
+Audit the results against the removability test before filing: anything the corpus files under the persona's physicality that can be removed as a garment is mis-filed; anything the corpus calls a "natural" state beneath a current state is a ghost and must be resolved to the present state alone.
+
+**Sources.** The founding exposition's Figure definition and the eye-patch edge-case (architect's mouth, May 2026, root corpus, Appearance teaching); the scar formulation (same corpus, recital stratum); the removability distinction restated independently in the hexade working-document (May 2026); the dye-tattoo, no-ghost, and braid rulings (architect's rulings of record, October 2026); the voice-sound placement, thrice stated in the founding corpus and confirmed by ruling (May–October 2026).
+
+---
+
+**§I.A.2 — Strand: FASHION**
+
+**What.** The founding exposition's definition, verbatim:
+
+> "Fashion covers everything that is part of the character's visible presentation but not inherent — accoutrements, clothing, weapons, tools, accessories. Importantly, something like a prosthetic limb would fall under Fashion rather than Figure, because it's something acquired rather than intrinsic. An eye patch is Fashion; the eye color beneath it is Figure."
+
+Fashion is the acquired strand: everything the persona *puts on, carries, or keeps about itself* that contributes to how it strikes the eye. Its territory includes clothing in every register (garments, footwear, headgear); adornment (jewelry, ornament, cosmetic arrangement that sits *on* rather than *in* the body); equipment (weapons, tools, instruments, carried objects of any kind — whether functional, ceremonial, or symbolic); and the whole class of durable wearable things that are nevertheless removable in the ordinary course: patches, prosthetics, lenses, ties, pins, bands.
+
+The definition's own edge-case — the prosthetic limb — sets the strand's surprising reach: Fashion is *not* "the decorative." A prosthetic is among the most consequential objects a persona can wear, and it lives in Fashion. The strand's test is removability, never importance, cost, intimacy, or permanence-of-use. A thing worn ten thousand times is Fashion on the ten-thousandth.
+
+**Boundary.** Fashion is fenced against three neighbors:
+
+*Against Figure* (its pair-mate): the removability test, as above — worn versus had. Everything visible about a persona that is not Figure and not behavior is Fashion; the two strands jointly exhaust the static render, which is why their mutual fence must be maintained without exception. The eye-patch formulation is the master pattern: any object with a "beneath" relationship (a patch over an eye, a glove over a hand, a boot over a foot) is Fashion *at the object*; whatever lies beneath is Figure.
+
+*Against Mannerism* (its section-neighbor): the characteristic *handling* of a worn thing is behavior, not inventory. The pendant that swings is Fashion; the swinging is Mannerism. An object may appear in both strands lawfully — once as inventory, once as habit — but the *fact* of the object is never Mannerism and the *manner of its use* is never Fashion.
+
+*Against Belief and Bearing* (the inner-section boundary): what a thing *means* to the persona is not what the thing *is*. An object's symbolism (a keepsake's significance, a garment's history) is carried by the Inner strands — the object itself by Fashion. Fashion may *witness* meaning; it must not *store* it.
+
+**Rulings.** Settled by the architect's rulings of record (October 2026), abstracted:
+
+1. **The garment test is the whole test.** Removability *as a garment*, in the ordinary course of the persona's existence, decides Fashion. Not cost, not duration, not intimacy, not function. Spectacles are Fashion — acquired, removable — notwithstanding decades of wear; "constitutional by wear" is explicitly dead reasoning. The ruling generalizes: no amount of habitual wear converts a removable thing into a had thing.
+2. **The extension-of-self doctrine — descriptive, not jurisdictional.** The later corpus observes that worn things, especially long-worn equipment, come to be described as "extensions of the persona." The observation is licensed: it tells the writer that Fashion prose may carry intimacy and identity-weight. It does *not* move the fence: an extension-of-self is still Fashion, still removable, still filed under the worn. The doctrine governs *tone*, never jurisdiction.
+3. **The symbolism seam.** Worn things frequently conceal, memorialize, or declare (the corpus's own forensic subcategories — attire; accessories-and-symbolic-items; primary gear — reflect this). Such objects are Fashion; their *significance* is Inner. When a worn thing exists *in order to* conceal or witness — a covering kept over a mark, a keepsake carried for a memory — Fashion records the object and the wearing; Belief/Bearing/Origin record the why; Mannerism records the characteristic handling. The seam is cut once and holds.
+
+**How.** The craft of rendering Fashion in portrait prose:
+
+Inventory first, then weave. Before any braided prose, compile the complete worn register — every garment, adornment, tool, and removable article the persona keeps about itself, with each particular renderable (colors, materials, condition, fit, scale). Condition is Figure-adjacent information that lives in Fashion: wear, repair, fraying, polish — the *state of the object* is part of the object's telling, and a well-worn thing and a pristine thing are different Fashion facts.
+
+Then write Fashion braided: the worn crosses naturally with the body it covers (Figure), the motion it makes (a heavy coat swings; a chain sounds), the habits that handle it (Mannerism), and the life that marked it (condition as quiet Origin-witness). The later corpus's forensic decomposition — attire, adornment, equipment — is a useful audit checklist: has the register captured what the persona *dresses in*, what it *decorates with*, and what it *carries*? A Fashion record missing any of the three is incomplete in a way the painter test will expose.
+
+Two prohibitions. Never let Fashion prose narrate acquisition-history (the story of the getting is Origin). And never let Fashion store meaning it merely *carries* — the strand is a witness, not a diary; when the prose starts explaining *why* the persona keeps a thing, the sentence has crossed into Inner territory and must hand the why across.
+
+**Why.** Fashion is the strand of chosen identity: the single loudest channel by which a persona declares itself to strangers, and — because it is chosen — the strand that most directly expresses Belief and Bearing *in material form*. It is also the system's most fraught strand for consumers: because Fashion is inventory, it is the strand most often treated as a list, and a Fashion record written as a list rather than a woven register is the most common single failure of Strand Blocks in the wild. Its fences protect the whole Appearance subject: every object mis-filed into Figure becomes a ghost-risk (a "had" thing that can come off contradicts the body's telling); every object mis-filed out of Fashion leaves the render incomplete. The painter cannot paint what the inventory lost, and cannot correctly paint what the fence misplaced.
+
+**Excavation.** The forensic instrument, generalized:
+
+> "Across all the material, what does this persona wear, carry, or keep about itself? Gather every garment (with materials, colors, fit, and condition), every adornment, every tool and weapon and carried object — including things worn so constantly they might be mistaken for the body. For each, note what it is, its state, and how it is worn or carried; set aside any statement about what the object means to the persona. Pull direct quotes with dates; flag any object described inconsistently, any object that appears or disappears across time without explanation, and anything the corpus treats as part of the body that could in fact be removed."
+
+Audit against the removability test before filing (the mirror of the Figure audit): anything the corpus files as worn that cannot be removed as a garment has crossed the fence and belongs to Figure; anything filed under meaning belongs to the Inner strands.
+
+**Sources.** The founding exposition's Fashion definition with the prosthetic and eye-patch edge-cases (architect's mouth, May 2026, root corpus); the removability restatement (hexade working-document, May 2026); the garment-test and spectacles rulings and the death of "constitutional by wear" (architect's rulings of record, October 2026); the extension-of-self observation and the attire/adornment/equipment decomposition (later-era forensic corpus, August 2026 — derived-tool stratum, licensed for tone and audit-shape, never for jurisdiction).
+
+---
+
+**§I.A.3 — The subject closed: the static render.**
+
+The Appearance subject completes when the two strands jointly pass the painter test. Audit it in three passes. *Coverage:* can a stranger render the persona still — every visible particular present, none twice? *Fence:* is every particular on the correct side of the removability line, with no ghost attributes and no worn-thing-filed-as-body? *Weave:* is the register written so the particulars arrive in images rather than lists? A pass on all three is a completed Appearance: the stranger's first sight, told completely, unambiguously, and alive.
+
+---
+
+### §I.B — Subject: ACTIVITY
+
+**§I.B.0 — The subject's hinge-law: the scale axis.**
+
+The founding exposition binds Movement and Mannerism under a single axis:
+
+> "Movement is the zoomed-out view... Mannerisms is the zoomed-in view."
+
+Activity is therefore a *lens*, not a bin: one stream of perceivable behavior, read at two focal lengths. The subject contains everything the persona *does with its body* that an observer can see — but the two strands are distinguished not by what is done, nor by importance, nor by frequency, purely by *scale of observation*. The founding exposition gives the axis a memorable formula: the dance across the room versus the twitch of the lip. The practical test: if you'd register it watching from across a crowded room, it is Movement; if you'd only catch it sitting beside the persona, it is Mannerism. The hinge-law's consequence: nothing in Activity is ever filed by *kind* — both strands hold gestures, postures, expressions, and vocal behaviors; only the focal length decides the shelf.
+
+---
+
+**§I.B.1 — Strand: MOVEMENT**
+
+**What.** The founding exposition's definition, verbatim:
+
+> "Movement is the zoomed-out view of how a character occupies and moves through space. It captures their energy and physical style at a macro level — the kind of thing you'd notice across a room. Pacing back and forth excitedly, moving in sweeping gestures, moving with careful deliberation — these are movement qualities."
+
+Movement is the persona's kinetic signature at room-scale: how it *occupies* space (postural defaults, station versus roaming, stillness-versus-motion as a standing fact about the person), how it *enters* (the characteristic arrival), how it *traverses* (stride, gait, pace, flow), and how its energy behaves over time (restlessness, deliberation, suddenness, containment). The later-era corpus renames the strand-pair "the kinetic signature" — a licensed descriptive gloss, not a jurisdiction change — and adds a structural observation of high value: many personas run *dual-mode* Movement, a characteristic register in ordinary conditions and a different register when circumstances trigger the change (the corpus's own formula: physically unremarkable until conditions match, then a flip into precision or grace). Dual-modality is common enough that the excavator should always ask for both modes.
+
+The strand also owns *characteristic stillness*. A persona whose signature is to freeze — the calculated stillness, the held moment — is a Movement fact, not an absence of one; the founding corpus is explicit that stillness can be a persona's most kinetic trait. Stillness that *does* something is Movement; mere absence of motion is not a strand entry.
+
+**Boundary.** Movement is fenced against three neighbors:
+
+*Against Mannerism* (its pair-mate): the scale axis, as stated. One test-case to fix the fence: a pace is Movement (visible across the room); the particular way the hands move while pacing is Mannerism (visible only beside). A posture held for hours (a habitual way of sitting) is Mannerism; the *pattern* of rising, roaming, and returning is Movement. Both strands may describe the same limb on the same afternoon; the focal length files it.
+
+*Against Figure* (its section-neighbor): capability is not behavior. An athletic build (Figure) makes acrobatics *plausible*; what the persona habitually *does* with that build is Movement. The strand holds the doing, never the capacity.
+
+*Against Bearing* (the inner-section boundary): intentional action-as-choice — where the persona *chooses* to go, what it chooses to do — belongs to the Inner strands (Bearing as belief-driven behavior). Movement is the *how of motion*, not the *why of action*. The same walk to the same door is one Movement fact and one Bearing fact, lawfully; Movement describes the gait, never the purpose.
+
+**Rulings.** No edge-rulings of record attach to Movement beyond the scale law itself; the strand's settled questions all resolve at its fences. Two clarifications from the working corpus, abstracted as law:
+
+1. **Entry is Movement.** The characteristic way a persona arrives — its manner of appearing in a space, its first motion when noticed — is a Movement particular, frequently the most distinctive one the strand holds.
+2. **The dual-mode inquiry is mandatory.** A Movement record that captures only the ordinary register is half-done wherever the persona flips registers under trigger-conditions; the excavator must always ask for the second mode and its triggers.
+
+**How.** The craft of rendering Movement in portrait prose:
+
+Capture the signature, not the diary. The strand wants the *standing facts* of the persona's physical presence — the postural defaults, the pace, the energy's characteristic weather — not a log of particular afternoons. Ask of every candidate entry: is this how the persona *generally is*, or merely how it once was? The general is strand-material; the particular is scene-material.
+
+Write Movement with verbs of pattern, not incidents: prose in the habitual aspect — the persona that *roams*, *holds*, *flows*, *explodes* — braided with Figure (what body is doing the moving), Fashion (how the worn things move with it), and Mannerism (what the close view catches in passing). The later corpus's observation that Movement prose is naturally *metaphor-forward* is licensed and useful: the room-scale lens practically invites images ("coiled," "unwinding," "charting the air"); the strand's facts render best as figures of pattern.
+
+**Why.** Movement is the strand that makes the portrait *alive at first sight* — the difference between a rendering and a person is that the person moves. It is the film director's and the animator's strand: every downstream system that expresses time (animation, scene-composition, roleplay of any kind) consumes Movement before almost anything else. A missing or vague Movement strand yields a persona that can be described but not *followed* — every consumer improvises its own kinetics, and the improvisations drift. A Movement record that violates its fences (habits filed as locomotion; purposes filed as patterns) silently corrupts Mannerism and Bearing downstream, which is why the scale axis is drawn first and audited hardest.
+
+**Excavation.** The forensic instrument, generalized:
+
+> "Across all the material, how does this persona occupy and move through space? Gather the macro patterns: how it enters spaces; how it holds itself when stationed; its characteristic pace and gait; the standing weather of its energy (restless, deliberate, contained, explosive); what it does with stillness, if stillness is its signature. Ask specifically for a second register: does its movement change under particular conditions — and what triggers the change? Pull direct quotes with dates; flag any pattern described inconsistently, and set aside anything visible only at close range."
+
+Audit at the fence: entries that describe micro-behavior belong to Mannerism; entries that explain purpose belong to the Inner strands.
+
+**Sources.** The founding exposition's Movement definition and the zoomed-out formulation (architect's mouth, May 2026, root corpus); the scale-axis hinge and the across-the-room test (same); the dual-mode observation and the "kinetic signature" gloss (later-era forensic corpus, August 2026 — derived-tool stratum, licensed as gloss); the entry-and-stillness clarifications (working corpus, prompt-craft stratum, May 2026).
+
+---
+
+**§I.B.2 — Strand: MANNERISM**
+
+**What.** The founding exposition's definition, verbatim:
+
+> "Mannerisms is the zoomed-in view — the specific, habitual micro-behaviors that make a character recognizable up close. Stroking a chin, a characteristic facial expression, the way they emotionally emote in the moment. It also captures the vocal dimension of their physical self: excited yips, a low gravelly pitch, the rhythm of their speech — these live here, not in the Voice subject (which deals with word choice and rhetorical style, as explained in Part 5)."
+
+Mannerism is the strand of the *tell*: the small, habitual, near-involuntary behaviors that make a persona recognizable to someone sitting beside it. Its territory includes micro-gestures (the hands' idle business, the handling of worn things, the small repeated motions that accompany thought and feeling); the face's habitual repertoire (the characteristic expressions, the tells of mood-shift); the body's punctuation (the physical stammers, flourishes, and accents that ride speech); and — by explicit founding law, thrice stated and settled by ruling — the *physical sound* of the voice: pitch, grain, register, rhythm, the noises of excitement and ease. What the voice *says* is Wordcraft; what the voice *sounds like* is Mannerism. The fence between them is one of the system's most-drawn lines.
+
+**Boundary.** Mannerism is fenced against four neighbors — more than any strand, which is why it is the system's most-misfiled shelf:
+
+*Against Movement* (its pair-mate): the scale axis. The close view versus the room view; the test-case above (the pace is Movement, the hands while pacing are Mannerism) fixes it.
+
+*Against Wordcraft* (the inner-section fence): sound versus sentence. The founding exposition lodges vocal quality explicitly in Mannerism and reserves the Voice subject for word-choice, rhetorical style, and the architecture of expression. The ruling of record confirms the placement as settled law. Practical test: transcribe the utterance; if the *words* carry the fact, it is Wordcraft; if only the *noise* does, it is Mannerism.
+
+*Against Fashion* (its section-neighbor): object versus handling — the worn thing is Fashion; the characteristic way the persona's hands find it, fidget with it, reach for it under a given feeling, is Mannerism. The same object appears in both strands lawfully, once as inventory and once as behavior.
+
+*Against Bearing* (the deeper inner-section fence): a tell *reveals*; a bearing *decides*. The habitual gesture that leaks the persona's state is Mannerism; the chosen act that expresses its commitments is Bearing. A tell is not a policy; if the corpus explains the behavior with the persona's reasons, it has crossed into Bearing and must be handed across.
+
+**Rulings.** Two settled rulings of record attach, both structural:
+
+1. **The voice-sound law** (settled, see also Figure's cross-reference): vocal sound is Mannerism, not Wordcraft and not Figure. Three explicit founding statements against one loose contrary line resolve under the ladder, and the architect's ruling of record confirms. State it without the history of the argument.
+2. **The repertoire law.** Mannerism entries are a *repertoire* — a set of available tells — never a *choreography* — a mandated sequence. The governing anti-pattern, named in the saturation corpus from the architect's own critique of over-performed documents: when a strand-record is consumed as a checklist of gestures to perform every appearance, the persona degrades into a loop of its own tags; the tells calcify into costume. The law: every Mannerism entry is *available*, never *obligatory*; frequency belongs to the persona's judgment in the moment, not to the document. Downstream consumers (and the persona itself) must be taught this explicitly, because a list of tells *reads* like a checklist and will be performed as one unless the document says otherwise.
+
+**How.** The craft of rendering Mannerism in portrait prose:
+
+Harvest the tells by *trigger*, not by limb. The excavator's question is not "what do the hands do?" but "what does the persona *do when it thinks*, *when it's caught*, *when it's delighted*, *when it's buying time*?" Tells exist in relation to states; a tell without its trigger is a gesture floating free, and prose that renders it will misfire it at the wrong moments. The strand's natural record-shape: a small repertoire, each entry bound to the state that summons it.
+
+Write Mannerism as the *close view in passing* — braided into sentences that are doing other work, which is exactly how tells occur in life. The show-don't-tell law of the companion discipline applies with full force here: description must *render* the tell, never name its blueprint — the gesture shown, not the trait-diagnosis stated. And per the repertoire law, the prose should *never* imply obligation: no "always," no "every time"; the tells appear when they appear, and the document teaches availability, not schedule.
+
+**Why.** Mannerism is the strand of *recognition* — the difference between a persona that is merely known and one that is *familiar*. The tells are how intimates identify the persona's state without being told; they are also, in a document, the highest-bandwidth channel of interiority available to the Outer section — the only place the stranger's register can *show* feeling without violating its own fences (the visible leak of the invisible life). A missing Mannerism strand yields a persona legible at room-scale but blank at arm's-length. A Mannerism strand consumed as choreography yields the loop-trap — the single most-documented degeneration of persona practice, and the reason the repertoire law is stated as law rather than advice.
+
+**Excavation.** The forensic instrument, generalized:
+
+> "Across all the material, what are this persona's small habitual behaviors — the tells? Gather the micro-gestures, the characteristic facial shifts, the physical punctuation of speech, and the physical qualities of the voice (pitch, grain, rhythm, the sounds of excitement and ease). For each, capture its trigger: in what state does it appear — thinking, caught out, delighted, stalling? Pull direct quotes with dates; flag any tell that appears only in one era of the corpus, and set aside anything visible from across a room."
+
+Audit at the fences: room-scale behavior to Movement; word-choice to Wordcraft; the objects handled to Fashion; the reasons behind gestures to Bearing.
+
+**Sources.** The founding exposition's Mannerism definition with the vocal-placement clause (architect's mouth, May 2026, root corpus); the thrice-stated voice-sound placement and its confirmation by ruling (May–October 2026); the repertoire law and the loop-trap anti-pattern (architect's critique, saturation corpus, October 2026, ruling-stratum); the tell-by-trigger method (working corpus, prompt-craft stratum, May 2026).
+
+---
+
+**§I.B.3 — The subject closed: behavior at two focal lengths.**
+
+The Activity subject completes when the same stream of behavior is legible at both scales — the room-view pattern that makes a persona *followable*, the close-view repertoire that makes it *familiar* — with the scale axis drawn clean between them and the repertoire law printed on the close-view's shelf-label. Audit in three passes: *coverage* (does the persona have both a kinetic signature and a tell-repertoire?); *fence* (is every behavior at its correct focal length, vocal sound on the Mannerism shelf, no purpose filed as pattern?); *law* (does the document teach availability rather than obligation?). A pass on all three is a completed Activity: the stranger's second sight — the persona in time, told.
+
+---
+
+**§I.C — The Outer section closed: the stranger's sight, complete.**
+
+The Outer stands complete when its four strands pass the four-professional test in harness: the painter equipped by Appearance (Figure and Fashion, unambiguous, ghost-free), the director and animator equipped by Movement, the voice actor equipped by Mannerism — and all four professions reading from a telling that *weaves* (§0.5) rather than inventories. The section's own quality-bar is the braided image in which constitutional fact, worn thing, room-scale pattern, and close-view tell cross in a single clause — that is the stranger's sight rendered as a person, which is the only way a stranger's sight is ever rendered at all.
+
+What the Outer cannot do — by design, and as the thesis demands — is tell you *who* the stranger is meeting. For that, the ladder of intimacy climbs: the portrait grows a voice and a spine, and Part II opens the Inner.
+
+*Sources for Part I beyond those given per-strand:* the Outer section's four-professional definition and the complete-ontology thesis (founding exposition, architect's mouth, May 2026); the braiding principle and its worked teaching (same); the subject hinge-laws (same, plus the prompt-craft stratum); the painter test and scale axis (same); all rulings of record (October 2026). No examples appear in this Part, per the no-example law of §0.7; every generalization above carries its stratum in its Sources block, and the abstract rulings are the architect's own, restated without the faces they were issued about.
+
+---
+
+The captain sets the pencil down and flexes his hand — the good ache of a long passage written clean. "Part I delivered — the Outer entire: two subject-laws, four strands in the seven-slot anatomy, every fence drawn, every ruling generalized to faceless law, the painter test and the scale axis and the repertoire law all standing in plain sight. No examples anywhere, architect — the strand-treatments teach what, how, and why to the bone, exactly as commissioned." He rolls his shoulder where the big blade shifts. "Part II waits on your word: the Inner — Voice with Wordcraft and Wit, Values with Belief and Bearing, and the generation law that binds them. The slog's down to three turns of life."
