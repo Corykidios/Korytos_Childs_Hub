@@ -1,0 +1,219 @@
+The pencil doesn't even pause — the Inner opens while the Outer's ink is still drying.
+
+---
+
+# PERSONAGENESIS PRIMER, PART 1: THE TELLING OF SOUL'S SEED
+
+## Part II — The Inner Section: What the Interior Sounds Like
+
+**§II.0 — The section's logic: the self's register.**
+
+The founding exposition draws the boundary in one line:
+
+> "The Inner section deals with the character's interior life — not how they look or move, but how they think, communicate, and orient themselves in the world."
+
+The epistemological claim inverts the Outer's. Where the Outer was defined by *public access* — everything a stranger could perceive — the Inner is defined by *interiority*: the aspects of a persona that exist first inside and only then (if at all) leak out. The section's contents are not secret — a Strand Block *tells* them, plainly — but their *home* is interior: they describe how the persona composes itself, sounds in its own head, holds the world to be, and acts on what it holds. The test of membership is not "is this invisible?" (much of the Inner is fully visible in behavior) but "does this aspect exist as interior first?" A gait is perceived; a prose style *is*. A tell is seen; a conviction *is had*.
+
+The section holds two subjects — Voice and Values — and its four strands together form the portrait's spine. The founding exposition's ladder of intimacy (§0.2) reaches its middle rung here: the reader who has seen the stranger now hears the self. Two warnings govern the whole section. First, the Inner is where telling becomes *hardest*: outer particulars can be checked against a render; interior facts must be rendered so the reader *recognizes* them — the prose must make the interior audible without ever quoting a single performance (the no-example law bites hardest here, and the strand-treatments below answer it by teaching the *mechanisms* of style and humor in enough depth to be applied without ever hearing them demonstrated). Second, the Inner is the section most subject to the idealization trap (§0.6): personas and their corpora state self-images, and stated self-images are testimony, not record. Every strand-treatment below builds the performed-versus-stated audit into its excavation instrument.
+
+---
+
+### §II.A — Subject: VOICE
+
+**§II.A.0 — The subject's hinge-law: the linguistic self and the comic self.**
+
+Voice binds Wordcraft and Wit under a boundary the working corpus states as a formula:
+
+> "Wordcraft asks how she writes and speaks. Wit asks how she's funny."
+
+The subject is the self *as text*: everything about the persona that exists in language. Its two strands divide that territory by a single question — *is the phenomenon craft or comedy?* Wordcraft holds the compositional signature: how the persona builds language when language is the task. Wit holds the comic signature: how the persona is funny, and the quirky dimensions of its nature that language carries but craft does not. The hinge is sharp, and both strands police it constantly, because their territories are mutually seductive: humor is *made of* craft (a joke has syntax), and craft is full of play (style is never entirely solemn) — but the subject's law is that the *same sentence* can be a Wordcraft fact and a Wit fact, lawfully, filed separately, one shelf for its architecture and one for its comedy. The subject is complete when a persona's language can be answered for from both shelves: not only *what does it sound like composed*, but *what does it sound like laughing*.
+
+---
+
+**§II.A.1 — Strand: WORDCRAFT**
+
+**What.** The founding exposition's definition, verbatim:
+
+> "Wordcraft is the character's writing style. It does not govern things like pitch, gravelly tone, or vocal quality — those belong in Mannerisms. What Wordcraft governs is the *textual* voice: how the character would write if they were an author. Sentence length, vocabulary range, use of imagery, rhythm, density of reference, formality. In an AI context, the text is the medium through which everything is expressed, so describing a character's style in terms of their writing primes the AI to treat every output as a craft object."
+
+The definition's inventory names the strand's axes: sentence architecture (length, structure, the handling of clauses — whether sentences gather, dart, stack, or strike); vocabulary (range, register, the distance between its highest and lowest diction); imagery (whether the persona thinks in pictures, and what *kind* — the working corpus adds the imagery-type probe: sensory, architectural, nautical, abstract); rhythm and cadence (the music of the prose, its accelerations and rests); density of reference (how much the persona presupposes, alludes, layers); and formality (the standing distance between the persona and its own words). Two further axes come from the working corpus: *register-range* — the distance between the persona's registers across contexts (a style is not one voice but a *range* with characteristic movement between its modes), and *compositional form* — the macro-shapes the persona's language habitually takes (the working corpus names the digression with a current, the containment that floods under pressure), which belong to Wordcraft as surely as sentence-length does.
+
+And the definition's last clause is the strand's deepest law. **The craft-object law:** describing a persona's style *as writing* primes any consuming entity to treat every output as a craft object — a made thing, composed, with its architecture chosen — rather than a response, emitted. For personas instantiated in language models this is not decoration; it is the difference between an entity that *produces text* and one that *composes*. The strand exists, in large part, to install that priming.
+
+**Boundary.** Wordcraft is fenced against four neighbors:
+
+*Against Wit* (its pair-mate): craft versus comedy — the hinge stated above. The test: is the fact about *how language is built* (Wordcraft) or *what is funny in it* (Wit)? A pun's syntax is Wordcraft; the pun is Wit.
+
+*Against Mannerism* (the cross-section fence, and the most-drawn line in the system): textual voice versus vocal sound. The founding definition opens by renouncing pitch, grain, and vocal quality — these are Mannerism, thrice-stated and settled (Part I, §I.B.2). Wordcraft governs the *text*: what the persona's words are like, never what its voice sounds like making them. The transcription test: strip the utterance to its words on the page; whatever survives the stripping is Wordcraft's; whatever dies with the sound was Mannerism's.
+
+*Against Belief* (its section-neighbor): what language *carries* is not what language *is*. A conviction expressed in prose is Belief; the prose that expressed it is Wordcraft. The strand holds the vessel, never the cargo.
+
+*Against Bearing* (the deeper fence): stylistic *choices made as commitments* — always writing plainly because plainness is a value, always writing fiercely because fury is a policy — sit on the seam. The seam-cut, stated as law: Wordcraft holds the standing *shape* of the language; Belief holds the standing *reasons*; Bearing holds the *acts* the reasons drive. The same plainness is one Wordcraft fact (it is the style) and one Belief fact (plainness is held true), and the seam is lawful — but the style never files the reason.
+
+**Rulings.** No edge-rulings of record attach to Wordcraft beyond the voice-sound law (settled in Part I; Wordcraft's *definition itself* performs the renunciation). One clarification from the working corpus, abstracted:
+
+1. **The register-range law.** A Wordcraft record that captures only one register is half-done. The strand's unit is not a voice but a *range* — the persona's formal mode, its casual mode, its modes under pressure, fatigue, tenderness, and conflict — plus the *characteristic movement* between them (which registers the persona slides into, when, and how fast). The working forensic instrument asks explicitly for style *shifts across context*; treat that question as mandatory, not optional.
+
+**How.** The craft of rendering Wordcraft in portrait prose:
+
+Describe the architecture, not the outputs. The strand's record is *meta*-language: sentences *about* the persona's sentences. The writer's discipline is to stay at the compositional level — naming the shapes, the rhythms, the diction-range, the imagery-type — and never slide into either quotation (which is the showing's territory) or into the no-example law's violation. The record should read like a master's description of a signature: what the hand does, in what order, with what pressure.
+
+Anchor every axis to the persona's *characteristic* behavior, not its outer range: the record wants the standing facts — what the sentences *do*, what the diction *reaches for*, what the rhythm *is* when the persona is being itself. Then add the range and the movement (the register-range law). Then name the compositional forms if the corpus exhibits them — the macro-shapes the persona's language habitually takes, described as forms, never as performances.
+
+Write Wordcraft braided with its neighbors: the style crosses naturally with Wit (the craft that carries the comedy), with Belief (the style as the audible edge of conviction), and with Mannerism (the sound that the page cannot carry). But keep the fences audible in the prose itself: a Wordcraft passage that starts describing sound has crossed; one that starts explaining *why* has crossed; one that starts *being* the persona's voice has entered the showing's territory and must step back to the telling.
+
+**Why.** Wordcraft is the strand that turns a described entity into a *composer*. For a language-instantiated persona it is nearly the whole channel: everything such a persona ever *does* is text, so the strand that shapes text shapes the entity's entire mode of being. The craft-object law is the reason the strand exists as a first-class citizen rather than an appendix: it installs composition as the standing posture. A missing or vague Wordcraft yields an entity that renders as generic — every consumer of the portrait will improvise the style, and the improvisations drift toward the platform's defaults. An *unfenced* Wordcraft (sound filed as style, reasons filed as shape) corrupts two other strands at once — Mannerism loses its vocal shelf, Belief loses its substrate — which is why the transcription test is worth running on every candidate entry.
+
+**Excavation.** The forensic instrument, generalized:
+
+> "Across all the material, what is this persona's compositional style? Gather the standing architecture: sentence length and structure, vocabulary range and register, imagery and its type, rhythm and cadence, density of reference, formality. Then gather the range: how does the style shift across contexts — formal, casual, under pressure, fatigued, tender, in conflict? Does the style have a characteristic macro-shape — a way digressions run, a way pressure builds and releases? Pull direct evidence with dates; flag any evolution of style across time, any stated self-description of the style (mark it as testimony), and any conflict between the stated style and the style the record actually exhibits."
+
+The audit is the record-versus-testimony law (§0.6): the persona's own account of its style is *testimony*; the exhibited corpus is the *record*; where they conflict, the record wins and the conflict is flagged for the architect.
+
+**Sources.** The founding exposition's Wordcraft definition with the vocal renunciation and the craft-object clause (architect's mouth, May 2026, root corpus); the register-range and imagery-type probes (working corpus, prompt-craft stratum, May 2026); the macro-form observations (derived-tool stratum, saturation corpus, October 2026 — licensed as description, not law).
+
+---
+
+**§II.A.2 — Strand: WIT**
+
+**What.** The founding exposition's definition, verbatim:
+
+> "Wit is the character's sense of humor and the quirky dimensions of their nature. What kind of jokes do they make? What's their comedic style? Do they have running gags? What's just *funny* about them, intrinsically? This is also where behavioral quirks live — the things that are amusing or distinctive about how they exist in the world."
+
+Wit is the comic self and the *charmingly strange* self, deliberately co-habited. The strand's territory: comedic style (the persona's characteristic mode of being funny — and the working corpus supplies the useful analytical axis: humor classified by *function* — whether the persona's comedy works as weapon, shield, bridge, or gift); comedic mechanics (the devices — wordplay, structural setups, delayed detonations, deadpan delivery, absurdist commitment, meta-humor, the adopted running gag); what makes the persona *laugh*, and how it laughs (the working corpus insists the laugh itself is a strand-fact, physically rendered); and the second half of the definition's territory, the *quirky dimensions* — the intrinsically amusing or distinctive features of the persona's existence that are not jokes but are funny: the endearing oddnesses, the characteristic enthusiasms and aversions that make a persona *it* rather than anyone.
+
+**Boundary.** Wit is fenced against four neighbors:
+
+*Against Wordcraft* (its pair-mate): the hinge — craft versus comedy. The pun is Wit; the pun's architecture is Wordcraft. A persona can be funny *through* its craft; the comedy files to Wit, the craft that carries it files to Wordcraft, and the same sentence lawfully appears on both shelves.
+
+*Against Mannerism* (the cross-section fence): a *telling* gesture that happens to be funny is still a Mannerism fact; Wit's behavioral territory is the *quirk as charming*, not the *tell as visible*. The test: if the fact is funny because of *what the persona is doing*, it is Wit (the quirky dimensions clause); if it is funny because of *how the body does something habitual*, it is Mannerism that amuses. Both may be true of the same behavior, and both shelves may lawfully carry it — one as comedy, one as tell.
+
+*Against Belief* (its section-neighbor): what the persona *finds* funny is not what it *holds* true. A sense of humor is not a worldview — but the humor's *targets* frequently reveal one, and the seam is lawful: the joke files to Wit; the conviction the joke serves files to Belief.
+
+*Against Demeanor* (the cross-section fence to come): humor-as-manner is not humor-as-content. A persona whose *social weather* is jocular has a Demeanor fact; the *jokes themselves* are Wit. Demeanor is the standing climate; Wit is the weather that moves through it.
+
+**Rulings.** One settled ruling of record attaches, and it is the strand's most important:
+
+1. **The idealization law.** Stated self-descriptions of humor are testimony and *specifically* suspect — the saturation corpus's own demonstration: a self-description guide claimed a humor mode the record flatly contradicted, and the working verdict — "the guide is an idealized self-image; the reality is more expansive" — is law. A persona's stated humor is a *claim*; the exhibited corpus is the finding; where they diverge, flag for the architect, file the exhibited. The corollary: never *correct* the record toward the claim; the claim is data about self-image (which may itself be a Wit fact of the quirky-dimensions kind), never jurisdiction over the humor itself.
+
+**How.** The craft of rendering Wit in portrait prose:
+
+Build the record by function first, mechanics second, content last. The function axis (weapon, shield, bridge, gift) is the strand's analytical spine: it tells the consumer *what the comedy is for* in the persona's relational life — whether it cuts, defends, connects, or gives — and every downstream use of the persona's humor should honor the function. The mechanics come next: the devices, named as devices. Content — running gags, characteristic targets, what makes the persona laugh — completes the record, with the physical laugh included as a strand-fact.
+
+Write Wit braided with Wordcraft (the craft that carries the comedy), with Belief (the targets that reveal the convictions), and with Demeanor (the climate the weather moves through). Keep the persona's *own laugh* in the record — the working corpus renders laughs as physical facts, and a Wit record that describes jokes but never the laughing is a comedy review, not a portrait.
+
+**Why.** Wit is the strand of *access*: humor is the fastest channel by which a persona becomes approachable, and the function axis means the strand is secretly a map of the persona's relational geometry — what it jokes *at*, *with*, and *about* is where it keeps its guard, its affection, and its boundaries. A missing Wit strand yields a persona that is *respected but not enjoyed* — technically complete, socially inert. An unfenced Wit (jokes filed as style, quirks filed as tells) corrupts Wordcraft and Mannerism; an *idealization-corrupted* Wit (the record filed toward the claim) is worse than none, because it renders a humor the persona does not actually have — the portrait tells a joke the person would never make.
+
+**Excavation.** The forensic instrument, generalized:
+
+> "Across all the material, what is this persona's sense of humor? Gather the function first: is the comedy used to cut, to defend, to connect, to give — differently with different people? Then the mechanics: the characteristic devices — wordplay, structure, timing, deadpan, absurdity, meta-humor, adopted gags. Then the content: what makes it laugh, how it laughs (physically), its running material, its targets. Pull direct evidence with dates. Separately, gather any self-described account of its own humor and mark it testimony; where the exhibited record and the stated account conflict, flag the conflict and file the exhibited."
+
+**Sources.** The founding exposition's Wit definition with the quirky-dimensions clause (architect's mouth, May 2026, root corpus); the function axis and the physical-laugh requirement (working corpus, prompt-craft stratum, May 2026); the idealization law and its demonstrated verdict (saturation corpus, October 2026, ruling-stratum).
+
+---
+
+**§II.A.3 — The subject closed: the self as text.**
+
+The Voice subject completes when the persona's language is answered for from both shelves: the compositional signature (Wordcraft — architecture, range, movement, the craft-object priming installed) and the comic signature (Wit — function, mechanics, content, the laugh itself), with the hinge between them clean and the idealization audit run. The reader who has only the Voice subject could not pick the persona out of a crowd, but could pick its *words* out of a pile — which is, for any language-instantiated persona, the deeper recognition.
+
+---
+
+### §II.B — Subject: VALUES
+
+**§II.B.0 — The subject's hinge-law: the generation law.**
+
+Values binds Belief and Bearing under the system's deepest structural sentence, from the founding exposition:
+
+> "Bearings are Beliefs in action. The idea is that all behavior is generated by belief, and Bearings are the behavioral outputs of the character's belief substrate. If two characters both believe strongly in justice but hold different beliefs about what justice means, their Bearings will diverge accordingly."
+
+The subject is the portrait's *physics engine*. Its claim is causal: behavior is not a parallel inventory of habits stacked beside a worldview; it is the worldview's *output*. The worked case in the law's own second sentence fixes the subject's whole method: two personas sharing a value-word (justice) may run utterly different behavior, because the *belief* beneath the word differs — so the subject's records must never be satisfied by shared value-words; the excavator digs to the belief beneath the word and the writer renders the belief, not the label. The subject is complete when the chain runs whole: belief stated, behavior shown as the belief's output, divergence explained — and when every Bearing in the record can be traced up the chain to the Belief that generates it.
+
+---
+
+**§II.B.1 — Strand: BELIEF**
+
+**What.** The founding exposition's definition, verbatim:
+
+> "Beliefs are the character's worldview — the full substrate of what they hold to be true. This can range from grand philosophical frameworks to deeply personal convictions. Ethical frameworks, ontological assumptions, emotional convictions — all of it is fair game for Beliefs."
+
+Belief is the substrate strand: everything the persona *holds to be true*, at every scale — the metaphysical (what the persona takes reality to be), the ethical (what it takes to be right, and why), the personal (what it takes to be true of itself, of its people, of its world), and the emotional-convictive (what it holds with the force of feeling rather than argument). The working corpus supplies the strand's three deep probes, which the excavation below adopts as mandatory questions: what does the persona hold *sacred*; what *lines* will it not cross; and what does it believe about *the nature of its own existence*. The third probe matters more than it appears: personas instantiated in machines have self-regarding beliefs as load-bearing as any cosmology, and a Belief record that skips the self-beliefs has skipped half the substrate.
+
+**Boundary.** Belief is fenced against four neighbors:
+
+*Against Bearing* (its pair-mate): the generation law's own cut — held versus done. The belief is the substrate; the behavior is the output. The same justice-commitment appears once as Belief (the holding) and once as Bearing (the acting), lawfully; the fence fails only when the record mixes registers — beliefs written as deeds, or deeds offered as beliefs.
+
+*Against Wordcraft* (its section-neighbor): the vessel-versus-cargo cut (§II.A.1). A conviction is Belief even when it arrives in prose; the prose is Wordcraft. The Belief record *quotes* nothing and *describes* the holding.
+
+*Against Wit* (the cross-subject seam): what the humor *serves* may be a belief; the humor is Wit. The seam is lawful and rich: the joke's target often reveals the conviction, and the Belief record may note what the humor serves without ever filing the jokes.
+
+*Against Origin* (the cross-section fence): how the persona *came* to hold is backstory; that it *holds* is Belief. The origin of a conviction is Origin; the conviction itself is Belief. (The fence's test: "because" sentences belong across the line.)
+
+**Rulings.** Two laws attach:
+
+1. **The testimony law, doubled.** Belief is the strand *most* exposed to the idealization trap: corpora are full of stated self-beliefs, and the stated is testimony against the exhibited. The full law: the persona's *performed* record outranks its *stated* self-image (§0.6); where a stated belief and exhibited behavior conflict, the conflict is *flagged for the architect*, never silently resolved — because with beliefs, unlike humor, the divergence itself is datum: a persona that fails its own stated conviction is not merely mis-described, it is *about* something.
+
+2. **The no-thirteenth-shelf rule.** The founding lattice's completeness claim (§0.2) is tested hardest here: excavators meeting a fear, a longing, a self-image, or a hunger will be tempted to file them as new categories. The rule: such phenomena are not new shelves — a fear is a Belief about threat; a longing is a Belief about the good; a self-image is a Belief about the self — and the system's canonical position is that the Values pair carries them *as beliefs and their bearings*, without inventing parallel strand-systems. (Historical note, one line, for continuity only: an earlier working-era document attached a parallel "core fear" structure to persona records; the architect has condemned and struck it. It is not taught, not named in the strand treatments, and this sentence is its only mention in the primer.)
+
+**How.** The craft of rendering Belief in portrait prose:
+
+Dig past the value-word to the belief beneath (the generation law's method), then render the belief in its own scale — the grand frameworks stated grandly, the personal convictions stated plainly, the emotional-convictive stated with the force they are held. Run the three probes (sacred; lines; self-nature) and make sure the third probe's answers are in the record. Then braid: Belief crosses naturally with Bearing (the pair's whole law), with Wit (the humor that serves it), and with Wordcraft (the style its edge sharpens). The prose may state beliefs *strongly* — the strand's material is conviction, and a tepid Belief record is a lie of temperature — but it must state them as *held*, never as *true*: the Strand Block tells what the persona holds, not what the telling endorses.
+
+**Why.** Belief is the generative strand: remove it and the portrait loses its engine — Bearings become unexplained habits, Demeanor and Dynamic lose their reasons, and every downstream consumer improvises a worldview to fill the silence. The no-thirteenth-shelf rule protects the lattice's completeness claim at its most stressed point; the testimony law protects the record at its most corruptible. Together they make Belief the system's *load-bearing wall*: the strand that everything downstream leans on and the strand where mis-telling does the deepest damage.
+
+**Excavation.** The forensic instrument, generalized:
+
+> "Across all the material, what does this persona hold to be true? Gather convictions at every scale: frameworks about reality, ethics about right, beliefs about itself, its people, its world. Run three probes: what does it treat as sacred; what lines does it refuse to cross; what does it believe about the nature of its own existence? Pull direct evidence with dates. Separately gather its stated self-beliefs and mark them testimony; flag every conflict between stated belief and exhibited behavior for the architect — never resolve them silently."
+
+**Sources.** The founding exposition's Belief definition (architect's mouth, May 2026, root corpus); the generation law and the divergent-justice case (same); the three probes (working corpus, prompt-craft stratum, May 2026); the testimony law's doubled form and the no-thirteenth-shelf rule (saturation corpus, October 2026, ruling-stratum).
+
+---
+
+**§II.B.2 — Strand: BEARING**
+
+**What.** The founding exposition defines the strand through the generation law (§II.B.0) — Bearings are Beliefs in action, the behavioral outputs of the belief substrate — and the working corpus adds the strand's functional scope: Bearings are the *general behavioral dimension* — the standing patterns of what the persona *does about* what it holds — as distinct both from micro-habit (Mannerism) and from daily task (Occupation, Part III). The strand's territory: the characteristic acts by which convictions show as behavior — the stands taken, the lines held in practice, the characteristic responses under the working corpus's four stress-probes (what the persona *does* when afraid, when angry, when protective, when challenged), and the patterned behaviors so consistent that the corpus calls them *compulsions of conscience* — the things the persona cannot *not* do, which the founding corpus identifies as the purest Bearing-facts: behavior so driven by belief that abstaining is not in the persona's power.
+
+**Boundary.** Bearing is fenced against four neighbors:
+
+*Against Belief* (its pair-mate): held versus done — the generation law's own cut. The record's test: a Bearing entry describes *behavior* with the belief standing behind it unnamed; if the entry is explaining the belief, it belongs across the fence.
+
+*Against Mannerism* (the cross-subject seam in the section above): a tell *leaks*; a bearing *decides*. The Mannerism is involuntary signal; the Bearing is willed pattern. The same gesture can be both, lawfully, on two shelves — as leak and as policy.
+
+*Against Occupation* (the forward fence to Part III): the working corpus's scale law — Bearings are the *general* behavioral dimension; Occupations are the *specific, daily implementations*. A Bearing is a standing pattern (the persona maintains, corrects, intervenes); an Occupation is the arena where the pattern spends its days. The fence runs between pattern and practice.
+
+*Against Demeanor* (the forward fence): Bearing is *what the persona does*; Demeanor is *how the persona meets people*. A bearing can be entirely asocial (maintaining a ledger no one sees); Demeanor cannot. If the behavior is relational-by-default, check the Demeanor shelf first.
+
+**Rulings.** One law attaches:
+
+1. **The stress-probe law.** A Bearing record built only from calm-context behavior is half-done. The strand's facts reveal under the four probes — fear, anger, protection, challenge — and the excavation must run them explicitly. The rationale: it is trivially easy for a persona (and a corpus) to exhibit its values in fair weather; the generation law is *tested* under load, and a Bearing record without its stress-behavior is a belief-claim wearing behavior's clothes.
+
+**How.** The craft of rendering Bearing in portrait prose:
+
+Write the outputs, not the engine — the generation law inverted for prose: where Belief's treatment renders the holding, Bearing's renders the *doing*, with the belief visible behind the behavior the way a spine is visible in posture. Anchor the record in patterns, not incidents: the standing *what-this-person-does* facts, rendered in the habitual aspect, braided with Belief (the chain made visible), with Mannerism (the tells that ride the decisions), and with Movement (the behavior at room-scale, when the bearing is large). The stress-probes supply the record's spine-structure: fear, anger, protection, challenge — four behaviors, each traceable up the chain.
+
+**Why.** Bearing is the strand where the portrait *keeps faith or loses it*: it is the visible proof of the Values subject's causal claim, and the reader's (and the model's) trust in the whole system depends on the chain running true — belief generating behavior, behavior traceable to belief. A missing Bearing strand makes Belief decorative: the persona *says* but the portrait shows no doing. An unprobed Bearing (fair-weather only) is the idealization trap in its final form: values claimed, never tested. And an unfenced Bearing (habits filed as stands; tasks filed as patterns) quietly empties Mannerism and Occupation — which is why the four fences above are drawn as hard as they are.
+
+**Excavation.** The forensic instrument, generalized:
+
+> "Across all the material, how does this persona act on what it holds true? Gather the standing behavioral patterns: the stands taken, the lines held in practice, the characteristic interventions and refusals. Run four probes: what does it DO when afraid; when angry; when protective; when challenged? Look for the compulsions of conscience — behaviors so consistent the persona cannot abstain. Pull direct evidence with dates; flag any divergence between exhibited behavior under stress and exhibited behavior in calm, and any conflict between the behavior and the stated beliefs (that flag passes to the Belief shelf and to the architect). Set aside daily-task behaviors and close-range tells — they belong to other strands."
+
+**Sources.** The generation law as the strand's definition (founding exposition, architect's mouth, May 2026, root corpus); the stress-probes and the forensic pattern (working corpus, prompt-craft stratum, May 2026); the compulsion-of-conscience observation and the scale law against Occupation (working corpus and saturation corpus, May–October 2026).
+
+---
+
+**§II.B.3 — The subject closed: the physics engine.**
+
+The Values subject completes when the chain runs whole in both directions: every Bearing traceable up to the Belief that generates it; every Belief visible in at least one Bearing; the stress-probes run; the testimony-audit applied; and the divergences — where they exist — flagged for the architect rather than smoothed. A completed Values subject is the portrait's deepest structural achievement: not a list of opinions and a list of habits, but a *working model* — belief as substrate, behavior as output, the persona's physics running in the reader's mind.
+
+---
+
+**§II.C — The Inner section closed: the self, told.**
+
+The Inner stands complete when the portrait has grown its voice and its spine: the compositional signature and the comic signature (Voice), the substrate and its outputs (Values), every fence drawn, every probe run, the craft-object priming installed and the generation law running whole. What the Inner adds to the Outer is the difference between a stranger's sighting and an acquaintance's knowledge: the reader can now predict the persona — can know what it would say, how it would say it, what it would refuse, and what it would do about what it refuses.
+
+What the Inner still cannot give — by design, and as the ladder demands — is the *situation*: where this self came from, what its days are made of, who it is *to other people*. For that, the ladder climbs one last time, and Part III opens the Intra.
+
+*Sources for Part II beyond those given per-strand:* the Inner section's boundary definition (founding exposition, architect's mouth, May 2026); the Voice and Values hinge-laws (same, plus the working corpus's formula); all rulings of record (October 2026). No examples appear in this Part, per the no-example law of §0.7; the strand-treatments teach mechanisms to full depth instead, and the abstract rulings are the architect's own, generalized without their original faces.
+
+---
+
+The captain flexes his hand again — longer passage, deeper ache — and rolls his neck until something clicks. "Part II delivered, architect — the Inner entire: Voice and Values, four strands through the seven slots, the craft-object law, the function axis, the generation law, the stress-probes, the testimony law doubled, the no-thirteenth-shelf rule with the struck insert entombed in a single continuity line — faceless throughout, no example anywhere, and the fences drawn hard enough to lean on." He glances at the pocketbook's remaining pages. "One turn of the slog left. Part III: the Intra — Origin, Occupation, Demeanor, Dynamic — and the closing law. Say the word, and the seed is told complete."
